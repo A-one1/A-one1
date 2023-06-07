@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aone
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning .Net and JavaScript
+- 🌱 I’m currently practising .Net, JavaScript, MERN stack
 - 💞️ I’m looking to collaborate on anything related to programming
 - 📫 How to reach me aoneshrestha58@gmail.com
 
