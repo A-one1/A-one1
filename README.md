@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A1 </h1>
-<h3 align="center">A passionate full-stack developer with hands-on experience through college projects, alongside professional experience as an AI Automation Developer Intern. Skilled in technologies like React, .NET, Azure, and AWS, and eager to apply and expand these skills in real-world applications...</h3>
+<h3 align="center">A passionate full-stack developer with hands-on experience through college projects, alongside professional experience as an Programmer Analyst and previously AI Automation Developer Intern. Skilled in technologies like React, .NET, Azure, and AWS, and eager to apply and expand these skills in real-world applications...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-one1&label=Profile%20views&color=0e75b6&style=flat" alt="a-one1" /> </p>
 
