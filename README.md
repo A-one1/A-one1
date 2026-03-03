@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-one1" alt="a-one1" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Academy Cloud, Python, Algorithms**
+- 🌱 I’m currently learning **.Net10, SQL 2525, LLMs, C#, JS, SQL**
 
 - 👯 I’m looking to collaborate on **I’m open to collaborating on any project that sparks my curiosity, no matter the field or focus—if it intrigues me, I’m all in!**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aoneshrestha58@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://docs.google.com/document/d/1cB7PvMzwy_po6-20OrwJ1TMPHRMpCzrp/edit?usp=sharing&ouid=110011794415681110331&rtpof=true&sd=true)
+- 📄 Know about my experiences [My_Resume](https://docs.google.com/document/d/1DrG3tfNRL6oPlexr9vh4rDxmUgpCVne5/edit?usp=sharing&ouid=101513191037134695993&rtpof=true&sd=true)
 
 - ⚡ Fun fact **A passionate PC gamer with a love for titles like Elden Ring, CS GO 2, Uncharted: Legacy, Call of Duty, Tekken,The Last of Us, RDR2 and many more —always diving into thrilling adventures and competitive action!**
 
